@@ -1,4 +1,5 @@
 Adding a file to test automatic Jenkins trigger
 It was succesful, so editing the file to test again.
 Editing for the 2nd time.
-Did not work. But was able to activate node.
+Did not work. But was able to activate node. (Nope)
+deleted agent node1. Checking if master with built in node works still.
